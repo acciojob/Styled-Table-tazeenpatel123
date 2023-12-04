@@ -1,1 +1,15 @@
 /* your code */
+table{
+	border:3px solid black;
+	width:50%
+}
+thead th{
+	font size:15px;
+	background:brown;
+	color: white
+}
+tbody tr td{
+	text-align:center;
+	background:aqua
+	
+}
